@@ -42,12 +42,6 @@ This paper draws from ten professional academic sources, including:
 
 ---
 
-## 💡 Key Insight
-> “Firewalls can protect systems, but only awareness can protect people —  
-> and social media has yet to teach users how to defend themselves.”
-
----
-
 ## 🧭 Version History
 | Date | Description |
 |------|-------------|
