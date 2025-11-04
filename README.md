@@ -47,7 +47,7 @@ This paper draws from ten professional academic sources, including:
 | Date | Description |
 |------|-------------|
 | 2025-11-01 | Finding credible sources from Google Scholars |
-| 2025-11-04 | Initial draft |
+| 2025-11-04 | Rough draft |
 | 2025-11-08 | Grammar and style revisions; improved citations |
 | 2025-11-11 | Peer review |
 | 2025-11-23 | Final Draft Due |
