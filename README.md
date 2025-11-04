@@ -4,6 +4,7 @@
 **Course:** WRTG 2010 – Introduction to Writing  
 **Instructor:** Dr. Allison Segal  
 **Institution:** University of Utah Asia Campus  
+**Word Count:** 
 
 ---
 
