@@ -9,15 +9,15 @@
 ---
 
 ## 📄 Overview
-This repository contains my academic research essay titled  
+This repository contains my academic research paper titled  
 **“Click, Trust, Repeat: How Social Media Turns Humans into Cybersecurity Loopholes.”**  
-The essay examines how social media platforms exploit human psychology and how attackers leverage online trust behaviors to perform social engineering, data harvesting, and manipulation at scale.
+The paper examines how social media platforms exploit human psychology and how attackers leverage online trust behaviors to perform social engineering, data harvesting, and manipulation at scale.
 
 ---
 
 ## 🧠 Abstract
 Over 80% of cybersecurity breaches involve human error — many originating from social media.  
-This essay investigates the intersection of human psychology, persuasive technology design, and cybersecurity vulnerabilities. It explores how false trust, attention manipulation, and oversharing behaviors turn everyday social media users into potential victims of cyberattacks. Using academic sources, real-world cases like the 2020 Twitter Bitcoin scam, and proposed educational and design-based solutions, the paper argues that true cybersecurity requires *human-centered awareness* alongside technological defenses.
+This paper investigates the intersection of human psychology, persuasive technology design, and cybersecurity vulnerabilities. It explores how false trust, attention manipulation, and oversharing behaviors turn everyday social media users into potential victims of cyberattacks. Using academic sources, real-world cases like the 2020 Twitter Bitcoin scam, and proposed educational and design-based solutions, the paper argues that true cybersecurity requires *human-centered awareness* alongside technological defenses.
 
 ---
 
